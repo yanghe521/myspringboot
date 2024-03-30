@@ -1,0 +1,14 @@
+person:
+  name: 张三
+  age: 18
+  birth-day: 2010/10/10 12:12:12
+  like: true
+  child:
+    name: 李四
+    age: 20
+    birth-day: 2018/10/10
+#    text: ["www","eee"]
+    text:
+      - abc
+      - def
+
